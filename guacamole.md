@@ -6,5 +6,5 @@ Ingredients:
 
 Instructions:
 * mix all ingredients
-* mash 
+* mash with a fork
 * enjoy!
